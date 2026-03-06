@@ -27,7 +27,7 @@ from pathlib import Path
 
 # === USER CREDENTIALS (edit as needed) ===
 USERS = {
-    "user1": "pass1",
+    "user1": "Rishabh",
     "Rishabh": "Rishabh321"
 }
 
