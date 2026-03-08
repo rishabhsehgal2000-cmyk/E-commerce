@@ -1,6 +1,0 @@
-streamlit>=1.26
-pandas>=1.5
-plotly>=5.18
-numpy>=1.21,<2.0
-python-dateutil>=2.8
-pathlib; python_version<'3.4'
